@@ -7,3 +7,5 @@ langchain-openai
 huggingface_hub
 wikipedia
 tavily-python
+duckduckgo-search
+
