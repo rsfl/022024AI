@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-cli
+langchain-community
+langserve[all]
+langchain-openai
+huggingface_hub
+wikipedia
+tavily-python
