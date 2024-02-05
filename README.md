@@ -1,6 +1,6 @@
 # 022024AI
 
-This are the files for Prompt Engineering 102 presentation </br>
+This are the files for Prompt Engineering 102 presentation at Hackmiami 02 2024 </br>
 You will need either vs code with python3 or jupyter </br>
 clone this repo </br>
 pip install -r requirements.txt </br>
