@@ -1,6 +1,6 @@
-# 022024AI
+# 02-2024-AI Prompt Engineering 102 Introduction to Langchain Presentation at [Hackmiami](https://hackmiami.org)
 
-This are the files for Prompt Engineering 102 presentation at Hackmiami 02 2024 </br>
+These are the files for Prompt Engineering 102 presentation at Hackmiami 02 2024 </br>
 You will need either [VS CODE](https://code.visualstudio.com/) with python3.10 or [Jupyter](https://jupyter.org/install) </br>
 clone this repo </br>
 pip install -r requirements.txt </br>
