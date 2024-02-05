@@ -8,7 +8,11 @@ You will also need </br>
 OpenAI API Keys </br>
 HuggingFace API Keys </br>
 Tavily API Keys</br>
+Scripts written in python 3.10.12</br>
+
 
 
 #caveat emptor I am junior python coder so my code is probably not pretty </br>
-#langchain keeps updating libraries so you may get warnings or deprecation notices in which case you may have to change some code 
+#langchain keeps updating libraries so you may get warnings or deprecation notices in which case you may have to change some code </b>
+#By the time you see this code it may be obsolete already
+#questions or comments at rodsoto.net 
