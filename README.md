@@ -3,14 +3,13 @@
 These are the files for Prompt Engineering 102 presentation at Hackmiami 02 2024 </br>
 You will need either [VS CODE](https://code.visualstudio.com/) with python3.10 or [Jupyter](https://jupyter.org/install) </br>
 clone this repo </br>
-pip install -r requirements.txt </br>
 You will also need </br>
 OpenAI API Keys </br>
 HuggingFace API Keys </br>
 Tavily API Keys</br>
 Replicate API Token</br>
 Scripts written in python 3.10.12</br>
-Due to the amount of requirements I suggest create an environment using venv within the cloned repo (python3 -m venv env && source env/bin/activate)</br>
+Due to the amount of requirements I suggest create an environment using venv within the cloned repo (python3 -m venv env && source env/bin/activate;pip install -r requirements.txt)</br>
 
 
 
