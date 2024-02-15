@@ -16,3 +16,4 @@ Scripts written in python 3.10.12</br>
 #langchain keeps updating libraries so you may get warnings or deprecation notices in which case you may have to change some code </br>
 #By the time you see this code it may be obsolete already </br>
 #questions or comments at rodsoto.net . Feel free create a PR or fork
+![langchainintro](https://github.com/rsfl/022024AI/assets/4623055/de5b1b42-27d0-4978-9477-c9c478a6e032)
