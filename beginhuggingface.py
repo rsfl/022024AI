@@ -7,5 +7,5 @@ from langchain import HuggingFaceHub
 
 llm = llm = HuggingFaceHub(repo_id="google/flan-t5-base", model_kwargs={"temperature":1, "max_length":64})
 
-text = "Where is the capital of Texas?"
+text = "What is the capital of Germany?"
 print(llm(text))

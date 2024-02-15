@@ -8,4 +8,6 @@ huggingface_hub
 wikipedia
 tavily-python
 duckduckgo-search
+replicate
+pypdf
 

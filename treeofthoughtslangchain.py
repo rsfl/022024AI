@@ -1,12 +1,13 @@
 import os
-os.environ['OPENAI_API_KEY'] = ''
-
-from langchain.chains import LLMChain
-from langchain_community.llms import OpenAI
+os.environ['OPENAI_API_KEY'] = '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'
+#from langchain_openai import OpenAI
+#from langchain.chains import LLMChain
+#from langchain.prompts import PromptTemplate
+#from langchain_openai import ChatOpenAI
+#from langchain.chains import SequentialChain
+from langchain_openai import OpenAI, ChatOpenAI
+from langchain.chains import LLMChain, SequentialChain
 from langchain.prompts import PromptTemplate
-from langchain_openai import ChatOpenAI
-from langchain.chains import SequentialChain
-
 
 template ="""
 Step1 :

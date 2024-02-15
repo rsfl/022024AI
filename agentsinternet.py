@@ -9,8 +9,8 @@ from langchain import FewShotPromptTemplate
 
 
 # set up API key
-os.environ["TAVILY_API_KEY"] = ""
-os.environ['OPENAI_API_KEY'] = ''
+os.environ["TAVILY_API_KEY"] = 
+os.environ['OPENAI_API_KEY'] = 
 
 # set up the agent
 llm = ChatOpenAI(model_name="gpt-4", temperature=0.5)
