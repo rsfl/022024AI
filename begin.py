@@ -1,4 +1,4 @@
-
+#example of simple prompt with langchain Rod Soto
 import os
 
 # Set your OpenAI API key

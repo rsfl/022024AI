@@ -1,4 +1,4 @@
-#r8_Mx4c5p56uH1JQzNmRWMiAb8ubMFrbVi4E33yT
+#example of replicate simple client prompt by Rod Soto
 import os
 os.environ["REPLICATE_API_TOKEN"] = ""
 import replicate 

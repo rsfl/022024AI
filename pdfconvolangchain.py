@@ -1,3 +1,5 @@
+#modified by  Rod Soto
+#must create /store folder where info on the pdf will created
 import os 
 from langchain_community.chat_models import ChatOpenAI
 from langchain.document_loaders import PyMuPDFLoader
@@ -10,7 +12,7 @@ from langchain.chains import RetrievalQA
 os.environ["OPENAI_API_KEY"] = ""
 
 persist_directory = "/home/trajan/Desktop/022024AI/store"
-pdf_path = "/home/trajan/Desktop/022024AI/divinecomedy.pdf"
+pdf_path = "/yourpath/divinecomedy.pdf"
 
 loader = PyMuPDFLoader(pdf_path)
 documents = loader.load()

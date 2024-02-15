@@ -1,3 +1,4 @@
+#example of langchain prompt using huggingface by Rod Soto
 import os
 #os.environ['OPENAI_API_KEY'] = ''
 os.environ['HUGGINGFACEHUB_API_TOKEN'] = ''

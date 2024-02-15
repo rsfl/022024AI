@@ -1,3 +1,4 @@
+#modified by Rod Soto
 import os
 os.environ['OPENAI_API_KEY'] = ''
 from langchain_community.chat_models import ChatOpenAI

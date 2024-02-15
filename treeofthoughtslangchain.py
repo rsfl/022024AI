@@ -1,10 +1,14 @@
+#modified by Rod Soto
 import os
 os.environ['OPENAI_API_KEY'] = ''
+<<<<<<< HEAD
 #from langchain_openai import OpenAI
 #from langchain.chains import LLMChain
 #from langchain.prompts import PromptTemplate
 #from langchain_openai import ChatOpenAI
 #from langchain.chains import SequentialChain
+=======
+>>>>>>> 467fc4f (addedprompts)
 from langchain_openai import OpenAI, ChatOpenAI
 from langchain.chains import LLMChain, SequentialChain
 from langchain.prompts import PromptTemplate
