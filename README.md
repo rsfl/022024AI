@@ -10,7 +10,7 @@ HuggingFace API Keys </br>
 Tavily API Keys</br>
 Replicate API Token</br>
 Scripts written in python 3.10.12</br>
-Due to the amount of requirements I suggest create an environement using venv (python3 -m venv env)</br>
+Due to the amount of requirements I suggest create an environement using venv within the cloned repo (python3 -m venv env && source env/bin/activate)</br>
 
 
 
