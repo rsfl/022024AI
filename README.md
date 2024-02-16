@@ -9,6 +9,7 @@ HuggingFace API Keys </br>
 Tavily API Keys</br>
 Replicate API Token</br>
 Scripts written in python 3.10.12</br>
+There are two pdfs of books you can use with the pdfconvolangchain.py file (The Divine Comedy by Dante Alighieri and The Never Ending Story by Michael Ende)
 Due to the amount of requirements I suggest create an environment using venv within the cloned repo (python3 -m venv env;source env/bin/activate;pip install -r requirements.txt)</br>
 
 
