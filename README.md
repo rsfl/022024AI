@@ -11,8 +11,8 @@ Replicate API Token</br>
 Scripts written in python 3.10.12</br>
 There are two pdfs of books you can use with the pdfconvolangchain.py file (The Divine Comedy by Dante Alighieri and The Never Ending Story by Michael Ende)</br>
 Due to the amount of requirements I suggest create an environment using venv within the cloned repo (python3 -m venv env;source env/bin/activate;pip install -r requirements.txt)</br>
-
-
+Updated 03-21-2024 with gpt4all.io + langchain script. This will allow you to run LLM models locally (see gpt4all.io). You will have to download the models then execute them locally</br>
+Youtube Presentation recording here [Hackmiami Youtube]https://www.youtube.com/watch?v=QkoX0R-35VQ
 
 #caveat emptor I am junior python coder so my code is probably not pretty </br>
 #langchain keeps updating libraries so you may get warnings or deprecation notices in which case you may have to change some code </br>
