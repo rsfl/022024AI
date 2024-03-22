@@ -10,7 +10,7 @@ Answer: Let's think step by step."""
 prompt = PromptTemplate.from_template(template)
 
 local_path = (
-    "/home/trajan/.local/share/nomic.ai/GPT4All/gpt4all-falcon-newbpe-q4_0.gguf"  # replace with your desired local file path
+    "/home/user/.local/share/nomic.ai/GPT4All/gpt4all-falcon-newbpe-q4_0.gguf"  # replace with your desired local file path
 )
 # Callbacks support token-wise streaming
 callbacks = [StreamingStdOutCallbackHandler()]
